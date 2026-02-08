@@ -1,0 +1,14 @@
+Transformation Notes – HR Analytics Dataset
+1. The HR Analytics dataset was imported into Power BI Desktop.
+2. Data cleaning and preparation were done using Power Query Editor.
+3. Unnecessary columns such as Employee Count, Over18, and Standard Hours were removed.
+4. Column names were renamed for better readability.
+5. Correct data types were assigned to all columns (numeric and text).
+6. Missing values were handled by removing or replacing null values where required.
+7. Conditional columns were created:
+o Age Group from the Age column
+o Salary Band from the Monthly Income column
+8. All transformations were reviewed in the Applied Steps pane.
+9. Changes were applied using Close & Apply, and the data was loaded into the model.
+10. Finally, the dataset was cleaned, structured, and made ready for HR attrition analysis and visualization.
+
